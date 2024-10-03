@@ -1,4 +1,6 @@
 ## Introduction to R 2024
+Jagiellonian University, Institute of Environmental Sciences  
+
 ### Instructions:
 
 [Class 1: Variables, functions, vectors](https://MarzenaMarszalek.github.io/Introduction_to_R_2024/Intro_to_R_class_1/Introduction_to_R_class_1.html)  

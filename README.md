@@ -8,4 +8,6 @@ Jagiellonian University, Institute of Environmental Sciences
 [Class 3: Data Wrangling 1](https://MarzenaMarszalek.github.io/Introduction_to_R_2024/Intro_to_R_class_3/Introduction_to_r_class_3.html)  
 [Class 4: Data Wrangling 2](https://MarzenaMarszalek.github.io/Introduction_to_R_2024/Intro_to_R_class_4/Introduction_to_R_class_4.html)  
 [Class 5: Plotting: base R and ggplot2](https://MarzenaMarszalek.github.io/Introduction_to_R_2024/Intro_to_R_class_5/Introduction_to_R_class_5.html)  
-[Summary](https://github.com/MarzenaMarszalek/Introduction_to_R_2024/blob/main/Intro_to_R_summary.md)
+[Summary](https://github.com/MarzenaMarszalek/Introduction_to_R_2024/blob/main/Intro_to_R_summary.md)  
+[Exam CSV file](https://github.com/MarzenaMarszalek/Introduction_to_R_2024/blob/gh-pages/exam_dataset.csv)  
+[Exam Excel file](https://github.com/MarzenaMarszalek/Introduction_to_R_2024/blob/gh-pages/exam_dataset.xlsx)

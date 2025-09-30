@@ -1,4 +1,4 @@
-## Introduction to R 2024
+## Introduction to R
 Jagiellonian University, Institute of Environmental Sciences  
 
 ### Instructions:
